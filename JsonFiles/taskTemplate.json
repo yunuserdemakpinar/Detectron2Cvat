@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "bug_tracker": "",
+    "status": "annotation",
+    "labels": [],
+    "subset": "",
+    "version": "1.0",
+    "data": {
+        "chunk_size": 6,
+        "image_quality": 70,
+        "start_frame": 0,
+        "stop_frame": 0,
+        "storage_method": "cache",
+        "storage": "local",
+        "sorting_method": "lexicographical",
+        "chunk_type": "imageset"
+    },
+    "jobs": []
+}
