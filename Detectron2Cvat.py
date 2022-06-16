@@ -73,8 +73,7 @@ def CreateTaskJson(projectName, taggingPeopleCount, imageCount):
         if i < remain:
             stopFrame += i + 1
             if i != 0:
-                startFrame += i + 1
-                stopFrame += i + 1
+                startFrame += i
         else:
             startFrame += remain
             stopFrame += remain
